@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ffjournalfrontend/static/css/main.0cd2a6b0.css",
+    "main.js": "/ffjournalfrontend/static/js/main.50563b9f.js",
+    "index.html": "/ffjournalfrontend/index.html",
+    "main.0cd2a6b0.css.map": "/ffjournalfrontend/static/css/main.0cd2a6b0.css.map",
+    "main.50563b9f.js.map": "/ffjournalfrontend/static/js/main.50563b9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cd2a6b0.css",
+    "static/js/main.50563b9f.js"
+  ]
+}
